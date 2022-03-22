@@ -1,1 +1,1 @@
-process: python infinite_proc.py
+process: python test/infinite_proc.py
